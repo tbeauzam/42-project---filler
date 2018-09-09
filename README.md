@@ -19,7 +19,7 @@ Filler is an algorithmic project. The aim here is to code a small AI called a Pl
 
 With these rules, it becomes obvious that the best way to win is by preventing the opponent to play.
 
-##### Usage:
+### Usage:
 
 After cloning:
 
