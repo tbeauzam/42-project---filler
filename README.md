@@ -2,7 +2,7 @@
 
 Leeets battle!
 
-![Example](https://github.com/tbeauzam/42-project---filler/blob/master/videos/example_filler.webm)
+![Example](https://github.com/tbeauzam/42-project---filler/blob/master/videos/example_filler.gif)
 
 
 ### Main program
