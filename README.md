@@ -2,7 +2,7 @@
 
 Leeets battle!
 
-![Example](https://github.com/tbeauzam/42-project---filler/blob/master/videos/example_filler.gif)
+![Example](https://github.com/tbeauzam/gifs_for_other_projects/blob/master/filler/example_filler.gif)
 
 
 ### Main program
@@ -15,7 +15,7 @@ Filler is an algorithmic project. The aim here is to code a small AI called a Pl
 - if a player can't place a piece, it dies!
 - the player with the highest number of placed pieces wins.
 
-![Validity](https://github.com/tbeauzam/42-project---filler/blob/master/videos/validity_example.png)
+![Validity](https://github.com/tbeauzam/gifs_for_other_projects/blob/master/filler/validity_example.png)
 
 With these rules, it becomes obvious that the best way to win is by preventing the opponent to play.
 
@@ -55,7 +55,7 @@ In the *resource/players/* folder, many players can only be used on OSX operatin
 
 The command above should produce something that looks like this:
 
-![Raw output](https://github.com/tbeauzam/42-project---filler/blob/master/videos/raw_output_filler.gif)
+![Raw output](https://github.com/tbeauzam/gifs_for_other_projects/blob/master/filler/raw_output_filler.gif)
 
 Ugly, isn't it?
 
@@ -73,4 +73,4 @@ The visualizer will not launch if terminal is too small (in case of a big map, b
 - possibility to jump at the end, at the beginning of a game. Can also jump at the moment where the first player dies.
 
 ##### Some video where I use the different features in a random order:
-![Example](https://github.com/tbeauzam/42-project---filler/blob/master/videos/visualizer_features_filler.gif)
+![Features](https://github.com/tbeauzam/gifs_for_other_projects/blob/master/filler/visualizer_features_filler.gif)
